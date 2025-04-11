@@ -1,4 +1,4 @@
-# 💫 Bellil Dhaker
+# 💫 Belil Dhaker
 
 ## About Me
 I’m a passionate **Computer Science student** and **Full-Stack Developer** with a strong enthusiasm for **Artificial Intelligence** and **Machine Learning**. I thrive on building innovative solutions and continuously expanding my knowledge of cutting-edge technologies. My journey in tech is driven by curiosity, creativity, and a commitment to solving real-world problems through code.
