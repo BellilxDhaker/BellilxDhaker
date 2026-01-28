@@ -10,7 +10,7 @@
 
 <h3 align="left">Let’s Connect:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/bellil-dhaker-4777a4306" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/dhaker-belil-4777a4306/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
   <a href="mailto:bellilxdhaker@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40"/></a>
   <a href="https://github.com/BellilxDhaker" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/></a>
 </p>
